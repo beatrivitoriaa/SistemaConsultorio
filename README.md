@@ -16,3 +16,9 @@ Quando falamos de uma consulta, ela não faz sentido sem um paciente e um médic
   Herança: A classe Pessoa é como a "família" dos pacientes e médicos. Todos compartilham algumas características básicas.
   Agregação: Um paciente pode ter várias consultas ao longo do tempo; as consultas podem existir mesmo sem o paciente estar ativo.
   Composição: Uma consulta só faz sentido se houver um paciente e um médico envolvidos; se a consulta for cancelada, tudo relacionado a ela também desaparece.
+
+
+## Integrados do Grupo
+- Ana Beatriz
+- Beatriz Vitória
+- Rickson
